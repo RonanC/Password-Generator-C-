@@ -1,10 +1,13 @@
-Overview
+Password Generator
 =====
+
+Overview
+-----
 GMIT - Procedural Programming (C) - Lecturer: Damien Costello
 Password Generator - December 2013 (Semester 3)
 
 Requirements:
-=====
+-----
 Write a program that generates or verifies passwords
 
 Rules for passwords:
@@ -21,12 +24,12 @@ Create a menu
 
 
 About
-=====
+-----
 This application was created to show off the use of the C language with a strong emphasis on saving/loading, random sequence generation and checking uniqueness of generation.
 
 The application remembers state by saving and loading to a TXT file.
 
 
 Tools Used
-=====
+-----
 This program was written in C using the Visual Studio 2012 IDE.
